@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exaceate.github.io/sitemap.html.gz
+Sitemap: https://exaceate.github.io/app/sitemap.html.gz
+Sitemap: https://exaceate.github.io/assets/sitemap.html.gz
+Sitemap: https://exaceate.github.io/css/sitemap.html.gz
+Sitemap: https://exaceate.github.io/includes/sitemap.html.gz
+Sitemap: https://exaceate.github.io/item/sitemap.html.gz
+Sitemap: https://exaceate.github.io/src/sitemap.html.gz
